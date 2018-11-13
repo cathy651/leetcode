@@ -7,7 +7,7 @@ Please feel free to leave me a star if you like this page ★
 
 |Number |Name |Solution |
 |-------|-----|---------|
-|1      |2 sum|[solution]()         |
+|1      |2 sum|[solution](leetcode/Array/solution.md)         |
 
 * Tree
 
