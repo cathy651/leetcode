@@ -5,7 +5,7 @@ Please feel free to leave me a star if you like this page ★
 
 * Array
 
-|number |name |
+|Number |Name |
 |-------|-----|
 |1      |2 sum|
 
