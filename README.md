@@ -7,7 +7,7 @@ Please feel free to leave me a star if you like this page ★
 
 |Number |Name |Solution |
 |-------|-----|---------|
-|242    |Valid Anagram| [solution](Array/readme.md)|
+|242    |Valid Anagram| [solution](Array/242.md)|
 
 * Tree
 
