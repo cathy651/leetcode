@@ -7,7 +7,7 @@ Please feel free to leave me a star if you like this page ★
 
 |Number |Name |Solution |
 |-------|-----|---------|
-|1      |2 sum|[solution](Array/solution.md)|
+|242    |Valid Anagram|[solution](Array/solution.md)|
 
 * Tree
 
