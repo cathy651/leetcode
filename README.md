@@ -12,6 +12,9 @@ Please feel free to leave me a star if you like this page ★
 
 
 * String
+
+|Number |Name |Solution |Structure|
+|-------|-----|---------|--------|
 | 3   | Longest Substring Without Repeating Characters | SlidingWindow | [Solution] | Linear_Structure |
 | 718   | Maximum Length of Repeated Subarray | DynamicProgramming | [Solution] | Linear_Structure |
 | 221   | Maximal Square | DynamicProgramming | [Solution]|Linear_Structure  |
