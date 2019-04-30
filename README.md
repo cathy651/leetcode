@@ -18,7 +18,7 @@ Please feel free to leave me a star if you like this page ★
 | 3   | Longest Substring Without Repeating Characters |  [Solution](String/LC3.Longest%20Substring%20Without%20Repeating%20Characters.java)| Linear_Structure, SlidingWindow  |
 | 718   | Maximum Length of Repeated Subarray | [Solution] | Linear_Structure, DynamicProgramming |
 | 221   | Maximal Square | [Solution]|Linear_Structure ,DynamicProgramming |
-| NA   | Maximal Subsring In a String | [Solution]| Linear_Structure  |
+| NA   | Maximal Subsring In a String | [Solution](String/MaximalSubsringInaString.md)| Linear_Structure  |
 
 * Tree
 
