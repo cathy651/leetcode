@@ -13,11 +13,11 @@ Please feel free to leave me a star if you like this page ★
 
 * String
 
-|Number |Name |Solution |Structure|
+|Number |Name |Solution |Structure/knowledge|
 |-------|-----|---------|--------|
-| 3   | Longest Substring Without Repeating Characters | SlidingWindow | [Solution] | Linear_Structure |
-| 718   | Maximum Length of Repeated Subarray | DynamicProgramming | [Solution] | Linear_Structure |
-| 221   | Maximal Square | DynamicProgramming | [Solution]|Linear_Structure  |
+| 3   | Longest Substring Without Repeating Characters |  [Solution] | Linear_Structure, SlidingWindow  |
+| 718   | Maximum Length of Repeated Subarray | [Solution] | Linear_Structure, DynamicProgramming |
+| 221   | Maximal Square | [Solution]|Linear_Structure ,DynamicProgramming |
 | NA   | Maximal Subsring In a String | [Solution]| Linear_Structure  |
 
 * Tree
