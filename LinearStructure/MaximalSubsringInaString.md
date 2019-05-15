@@ -1,27 +1,28 @@
-Maximal Subsring In a String
+# LeetCode3. Maximal Subsring In a String
 
+有一个String 要求找出string 里面最长的单词。
 
-```java 
+```java
 class Solution {
   public static void main(String[] args) {
-    
+
     String str1 = "My name is Jason";
-                                    
+
     // System.out.println(xxxx(str1)); // log: Jason
     String sens = "you and me";
                       // r
                    // l
-    
+
     System.out.println(longestWord(sens)); // log: Jason
   }
 
-  // 方法一： string array , time: n, space n 
+  // 方法一： string array , time: n, space n
 
 
     public static String longestWord(String sens){
     String res = "";
     String[] resArr = sens.split(" ");
-    
+
     for(int i = 0; i < resArr.length; i++){
       if(resArr[i].length() > res.length()){
         res = resArr[i];
@@ -29,14 +30,14 @@ class Solution {
     }
     return res;
   }
-  
+
   // 方法二 two pointer , time : n , space 1
-  
+
   public static String longestWord(String sens) {
     int l = -1, r = 0;
-    
+
     String res = "";
-      
+
     while(r < sens.length()){
       if(sens.charAt(r) == ' ') {
         String tmp = sens.substring(l + 1, r);
@@ -45,18 +46,18 @@ class Solution {
           res = tmp;
         }
         // update l
-        l = r; 
+        l = r;
       }
       r++;
     }
-    
+
     // r == sens.length();
     // l == last space
     String last = sens.substring(l, r);
     if(last.length() > res.length()){
       res = last;
     }
-    
+
     return res;
   }
 }
