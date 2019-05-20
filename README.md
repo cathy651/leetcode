@@ -14,8 +14,8 @@ Please feel free to leave me a star if you like this page ★
 | 136 | Single Number | [Solution](LinearStructure/136.md) | int array,two pointers SlidingWindow  |
 | 11 |Container With Most Water| [solution](LinearStructure/11.md)|int array, two pointers 两头加中间， 双指针可以把时间复杂度降到O(1)|
 | NA  | Maximal Subsring In a String | [Solution](LinearStructure/MaximalSubsringInaString.md)| String，two pointers 从左往右双指针  |
-| 435 | Non-overlapping Intervals | [Solution](LinearStructure/435.md)|int array,two pointers 从左往右  |
-|？ 283 |Move Zero|[Solution](）|int array, two pointers 快慢指针从左往右|
+| 435重写一下 | Non-overlapping Intervals | [Solution](LinearStructure/435.md)|int array,two pointers 从左往右  |
+|？ 283 |Move Zero|[Solution](LinearStructure/283.md)|int array, two pointers 快慢指针从左往右|
 | 33 | Search in Rotated Sorted Array| [Solution](LinearStructure/33.md)|int array, two pointers 两头加中间, binary search 二分法|
 |189| Rotate array | [Solution](LinearStructure/189.md) | int array, two pointer 三步反转 需要背|
 |? 18 | 4 Sum | [Solution](LinearStructure/18.md)|int array, two pointers 两头加中间|
