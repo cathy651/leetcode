@@ -36,8 +36,8 @@ Please feel free to leave me a star if you like this page ★
 | 718 | Maximum Length of Repeated Subarray | [Solution] | String, DynamicProgramming |
 | 221 | Maximal Square | [Solution]|, DP |
 | 62 | Unique Paths |[Solution] | Array, DP |
-| 64 | Minimum Path Sum | [solution](DPrograming/64.md)|Array, DP|
-| 53 | Maximum Subarray | [solution](DPrograming/53.md)|Array, DP|
+| 64 | Minimum Path Sum | [solution](DP/64.md)|Array, DP|
+| 53 | Maximum Subarray | [solution](DP/53.md)|Array, DP|
 
 * Graph/Sorting- DFS,BFS
 
