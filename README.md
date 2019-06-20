@@ -16,6 +16,8 @@ Please feel free to leave me a star if you like this page ★
 | NA  | Maximal Subsring In a String | [Solution](LinearStructure/MaximalSubsringInaString.md)| String，two pointers 从左往右双指针  |
 | 435重写一下 | Non-overlapping Intervals | [Solution](LinearStructure/435.md)|int array,two pointers 从左往右  |
 |？ 283 |Move Zero|[Solution](LinearStructure/283.md)|int array, two pointers 快慢指针从左往右|
+|Lintcode 14|First Position of Target|[Solution](LinearStructure/LintCode14.md)|int array, two pointers 两头加中间, binary search 二分法|
+|Lintcode 460|Find K Closest Elements|[Solution](LinearStructure/LintCode460.md)|int array, two pointers 两头加中间, binary search 二分法|
 | 33 | Search in Rotated Sorted Array| [Solution](LinearStructure/33.md)|int array, two pointers 两头加中间, binary search 二分法|
 |189| Rotate array | [Solution](LinearStructure/189.md) | int array, two pointer 三步反转 需要背|
 |? 18 | 4 Sum | [Solution](LinearStructure/18.md)|int array, two pointers 两头加中间|
