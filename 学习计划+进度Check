@@ -21,7 +21,7 @@
 
 Day1
 - [ ]T1.53. Maximum Subarray 拓展，原题是return int max = 6, 现在要你返回具体的subArray, List<Integer> res = [4,-1,2,1];
-T2.
+- [ ]T2.252. Meeting Rooms 考点是Array里面常见的interval这类型的数据结构
 T3
 Project: 
 Tech Article:
