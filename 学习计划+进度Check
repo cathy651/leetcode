@@ -20,10 +20,11 @@
 然后周末做一些前端小项目，足以搞定Uber, Airbnb等一线大公司前端了,周末项目时间不计算在内
 
 Day1
+** 算法练习
 - [ ]T1.53. Maximum Subarray 拓展，原题是return int max = 6, 现在要你返回具体的subArray, List<Integer> res = [4,-1,2,1];
 - [ ]T2.252. Meeting Rooms 考点是Array里面常见的interval这类型的数据结构
-T3
-Project: 
+- [ ]T3.253. Meeting Rooms II 考点是数据结构PriorityQueue的使用，面试时但凡能提到复杂的数据结构能帮助解题就是加分的
+** 项目推进
 Tech Article:
 3Questions:
 
